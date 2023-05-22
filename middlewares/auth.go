@@ -2,7 +2,7 @@ package middlewares
 
 import (
 	"github.com/gofiber/fiber/v2"
-	jwtware "github.com/gofiber/jwt/v4"
+	jwtware "github.com/gofiber/jwt/v3"
 )
 
 // Middleware JWT func
