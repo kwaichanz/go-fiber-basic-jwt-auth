@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	jtoken "github.com/golang-jwt/jwt/v5"
+	jtoken "github.com/golang-jwt/jwt/v4"
 	"github.com/kwaichanz/go-fiber-basic-jwt-auth/config"
 	"github.com/kwaichanz/go-fiber-basic-jwt-auth/models"
 	"github.com/kwaichanz/go-fiber-basic-jwt-auth/repository"
